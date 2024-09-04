@@ -1,13 +1,13 @@
 # Amazon Clone
 This project is a front-end clone of the Amazon website, created using HTML and CSS. The goal of this project is to replicate the layout, design, and basic functionality of the Amazon homepage and a few other pages, providing a visually similar experience to the original site.
-<hr style="width=0.1px">
+<hr style="width=50%">
 ## Features
 **Responsive Design**: The clone is responsive and adjusts to different screen sizes, making it accessible on mobile, tablet, and desktop devices.<br>
 **Header**: Includes a navigation bar with a logo, search bar, and icons for user account, returns & orders, and cart.<br>
 **Product Display**: Showcases a variety of products in a grid layout with images, titles, and prices.<br>
 **Footer**: Contains links to various pages, a sign-up section for newsletters, and other information similar to the original Amazon footer.<br>
 **Basic Interactivity**: Some elements like buttons and links have hover effects to mimic the original site's behavior.<br>
-<hr style="width=0.5px">
+<hr style="width=50%">
 ## How to Run
 **Clone the Repository:**
 git clone https://github.com/sarahasan17/Amazon-Clone.git<br>
